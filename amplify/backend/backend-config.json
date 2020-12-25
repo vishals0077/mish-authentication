@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "loginde27abd3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
